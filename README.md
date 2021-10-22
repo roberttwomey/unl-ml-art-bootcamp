@@ -5,7 +5,7 @@ UNL Emerging Media Arts - Fall 2021 - https://github.com/roberttwomey/unl-ml-art
 
 ## Description
 
-This bootcamp is a one day intensive introduction to Art and Machine Learning (ML), in advance of the [EMAR345 Machine Learning for the Arts](http://ml.roberttwomey.com) course in Spring 2022. The goal is to introduce both the technical software tools and the conceptual application domain of ML and Art. Students who thrive in this bootcamp workshop will enjoy the semester-long course.
+This bootcamp is a one day intensive introduction to Art and Machine Learning (ML), in advance of the [EMAR349 Machine Learning for the Arts](http://ml.roberttwomey.com) course in Spring 2022. The goal is to introduce both the technical software tools and the conceptual application domain of ML and Art. Students who thrive in this bootcamp workshop will enjoy the semester-long course.
 
 EMAR161 is a prerequisite for this course, or equivalent introductory coding experience with Javascript or Python.
 
