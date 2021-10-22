@@ -1,19 +1,19 @@
 # Machine Learning for the Arts Bootcamp
 
-UC San Diego - Spring 2019 - https://github.com/roberttwomey/ml-art-bootcamp
+UNL Emerging Media Arts - Fall 2021 - https://github.com/roberttwomey/unl-ml-art-bootcamp
 
 ## Description
 
-This bootcamp is a one day intensive introduction to Art and Machine Learning (ML), in advance of the Special Topics course offered through ECE. The goal is to introduce both the technical software tools and the conceptual application domain of ML and Art. Students who thrive in this bootcamp workshop will enjoy the quarter-long course.
+This bootcamp is a one day intensive introduction to Art and Machine Learning (ML), in advance of the EMAR345 Machine Learning for the Arts course in Spring 2022. The goal is to introduce both the technical software tools and the conceptual application domain of ML and Art. Students who thrive in this bootcamp workshop will enjoy the semester-long course.
 
-ECE 16 is a prerequisite for this course, or equivalent experience with python and/or ML.
+EMAR161 is a prerequisite for this course, or equivalent introductory coding experience with Javascript or Python.
 
 ## Details
 
-- **Instructor**: Robert Twomey - rtwomey@ucsd.edu - http://roberttwomey.com
-- **Date**: Thursday 5/21 
-- **Time**: 10am-3pm
-- **Location**: Qualcomm Conference Center, Jacobs School of Engineering.
+- **Instructor**: Robert Twomey - rtwomey@unl.edu - http://roberttwomey.com
+- **Date**: Wednesday 11/3
+- **Time**: 5:30-7:30pm
+- **Location**: Johnny Carson Center for Emerging Media Arts (CEMA [map](https://maps.unl.edu/CEMA)) and online.
 
 **Topics**:
 - Generative Methods in the Arts
