@@ -1,3 +1,4 @@
+![machine generated images](ml_art2019.png)
 # Machine Learning for the Arts Bootcamp
 
 UNL Emerging Media Arts - Fall 2021 - https://github.com/roberttwomey/unl-ml-art-bootcamp
