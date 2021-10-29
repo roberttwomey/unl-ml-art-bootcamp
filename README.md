@@ -9,7 +9,7 @@ Register here: [https://forms.gle/pL8aWC8JJuKitBKFA](https://forms.gle/pL8aWC8JJ
 
 ## Description
 
-This bootcamp is an short introduction to Art and Machine Learning (ML), in advance of the [EMAR349 Machine Learning for the Arts](http://ml.roberttwomey.com) course in Spring 2022. The goal is to introduce both the technical software tools and the conceptual application domain of ML and Art. Students who thrive in this bootcamp workshop will enjoy the semester-long course.
+This bootcamp is a short introduction to Art and Machine Learning (ML), in advance of the [EMAR349 Machine Learning for the Arts](http://ml.roberttwomey.com) course in Spring 2022. The goal is to introduce both the technical software tools and the conceptual application domain of ML and Art. Students who thrive in this bootcamp workshop will enjoy the semester-long course.
 
 With recent advancements in machine learning techniques, researchers have demonstrated remarkable achievements in image synthesis (BigGAN, StyleGAN), textual understanding (GPT-3), and other areas of text and image manipulation. This hands-on workshop introduces state-of-the-art techniques for text-to-image translation, where textual prompts are used to guide the generation of visual imagery. Participants will gain experience with Open AI's CLIP network and Google's BigGAN, using jupyter notebooks in either google Colab or HCC Open On Deman, which they can apply to their own work after the event. We will discuss other relationships between text and image in art and literature; consider the strengths and limitations of these new techniques; and relate these computational processes to human language, perception, and visual expression and imagination. __Please bring a text you would like to experiment with!__
 
