@@ -1,11 +1,11 @@
 ![machine generated images](ml_art2019.png)
 # Machine Learning for the Arts Bootcamp
 
-Prof. Robert Twomey | rtwomey@unl.edu | [roberttwomey.com](http://roberttwomey.com)
-
 Johnny Carson Center for Emerging Media Arts | 5:30-8:00pm, November 10, 2021 | [Center for Emerging Media Arts](https://maps.unl.edu/CEMA)
 
-Registere here: [forms.gle/pL8aWC8JJuKitBKFA](https://forms.gle/pL8aWC8JJuKitBKFA)
+Prof. Robert Twomey | rtwomey@unl.edu | [roberttwomey.com](http://roberttwomey.com)
+
+Register here: [https://forms.gle/pL8aWC8JJuKitBKFA](https://forms.gle/pL8aWC8JJuKitBKFA)
 
 ## Description
 
