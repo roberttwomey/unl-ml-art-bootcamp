@@ -1,7 +1,11 @@
 ![machine generated images](ml_art2019.png)
 # Machine Learning for the Arts Bootcamp
 
-[UNL Emerging Media Arts](carsoncenter.unl.edu) | Fall 2021 | https://github.com/roberttwomey/unl-ml-art-bootcamp
+Prof. Robert Twomey | rtwomey@unl.edu | [roberttwomey.com](http://roberttwomey.com)
+
+[Johnny Carson Center for Emerging Media Arts](carsoncenter.unl.edu) | 5:30-8:00pm, November 10, 2021 | (CEMA [map](https://maps.unl.edu/CEMA)) and online.
+
+Registere here: [forms.gle/pL8aWC8JJuKitBKFA](https://forms.gle/pL8aWC8JJuKitBKFA)
 
 ## Description
 
@@ -10,13 +14,6 @@ This bootcamp is an short introduction to Art and Machine Learning (ML), in adva
 With recent advancements in machine learning techniques, researchers have demonstrated remarkable achievements in image synthesis (BigGAN, StyleGAN), textual understanding (GPT-3), and other areas of text and image manipulation. This hands-on workshop introduces state-of-the-art techniques for text-to-image translation, where textual prompts are used to guide the generation of visual imagery. Participants will gain experience with Open AI's CLIP network and Google's BigGAN, using jupyter notebooks in either google Colab or HCC Open On Deman, which they can apply to their own work after the event. We will discuss other relationships between text and image in art and literature; consider the strengths and limitations of these new techniques; and relate these computational processes to human language, perception, and visual expression and imagination. __Please bring a text you would like to experiment with!__
 
 No skills are necessary for the workshop, although some experience coding (EMAR161 or equivalent introductory coding experience with Javascript or Python) will be helpful.
-
-## Details
-
-- **Instructor**: Prof. Robert Twomey | rtwomey@unl.edu | [roberttwomey.com](http://roberttwomey.com)
-- **Date**: Wednesday 11/10
-- **Time**: 5:30-8:00pm
-- **Location**: Carson Center for Emerging Media Arts (CEMA [map](https://maps.unl.edu/CEMA)) and online.
 
 ## Schedule
 |    Time    | Activity |
