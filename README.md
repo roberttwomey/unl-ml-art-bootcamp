@@ -3,7 +3,7 @@
 
 Prof. Robert Twomey | rtwomey@unl.edu | [roberttwomey.com](http://roberttwomey.com)
 
-[Johnny Carson Center for Emerging Media Arts](carsoncenter.unl.edu) | 5:30-8:00pm, November 10, 2021 | (CEMA [map](https://maps.unl.edu/CEMA)) and online.
+Johnny Carson Center for Emerging Media Arts | 5:30-8:00pm, November 10, 2021 | [CEMA](https://maps.unl.edu/CEMA)
 
 Registere here: [forms.gle/pL8aWC8JJuKitBKFA](https://forms.gle/pL8aWC8JJuKitBKFA)
 
