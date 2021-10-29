@@ -11,7 +11,7 @@ EMAR161 is a prerequisite for this course, or equivalent introductory coding exp
 
 ## Details
 
-- **Instructor**: Robert Twomey - rtwomey@unl.edu - http://roberttwomey.com
+- **Instructor**: Robert Twomey - rtwomey@unl.edu - [roberttwomey.com](http://roberttwomey.com)
 - **Date**: Wednesday 11/10
 - **Time**: 5:30-7:30pm
 - **Location**: Carson Center for Emerging Media Arts (CEMA [map](https://maps.unl.edu/CEMA)) and online.
