@@ -5,7 +5,7 @@ Johnny Carson Center for Emerging Media Arts | 5:30-8:00pm, November 10, 2021 | 
 
 Prof. Robert Twomey | rtwomey@unl.edu | [roberttwomey.com](http://roberttwomey.com)
 
-Register here: [https://forms.gle/pL8aWC8JJuKitBKFA](https://forms.gle/pL8aWC8JJuKitBKFA)
+Register here: [go.unl.edu/ml4abootcamp](https://go.unl.edu/ml4abootcamp)
 
 ## Description
 
