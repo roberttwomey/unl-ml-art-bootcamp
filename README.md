@@ -1,10 +1,11 @@
 ![machine generated images](ml-art-bootcamp-logo2.png)
 # Machine Learning for the Arts Bootcamp
 
-- [Johnny Carson Center for Emerging Media Arts](https://maps.unl.edu/CEMA)
-- Wednesday November 10, 5:30-8:00pm | 
-- Prof. Robert Twomey | rtwomey@unl.edu
-- Register here: [go.unl.edu/ml4abootcamp](https://go.unl.edu/ml4abootcamp)
+Wednesday November 10, 5:30-8:00pm | [Johnny Carson Center for Emerging Media Arts](https://maps.unl.edu/CEMA)
+ 
+Prof. Robert Twomey | rtwomey@unl.edu
+
+Register here: [go.unl.edu/ml4abootcamp](https://go.unl.edu/ml4abootcamp)
 
 ## Description
 
