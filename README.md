@@ -1,4 +1,4 @@
-![machine generated images](ml-art-bootcamp-logo3.png)
+![machine generated images](ml-art-bootcamp-logo2.png)
 # Machine Learning for the Arts Bootcamp
 
 Johnny Carson Center for Emerging Media Arts | 5:30-8:00pm, November 10, 2021 | [Center for Emerging Media Arts](https://maps.unl.edu/CEMA)
