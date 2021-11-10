@@ -20,7 +20,7 @@ No skills are necessary for the workshop, although some experience coding (EMAR1
 |------------|----|
 | 5:30	| Introductions; Open up jupyter; Introduction to Neural Nets, Generative Adversarial Networks (GANs), Generative Text (Transformers). |
 | 5:45  | Hands on with jupyter notebook and image generation: BigGAN; talk about latent vectors and GAN generation; talk about interpolations. Explore outputs. |
-| 6:15	| Check in on results: Particpants share BigGAN results as a group; Q & A | 
+| 6:15	| Check in on results: Participants share BigGAN results as a group; Q & A | 
 | 6:30  | Hands on with text-to-image translation: CLIP + BigGAN + CMA-ES; Talk about format of textual "prompts"/inputs; Explore visual outputs. |
 | 7:00	| Check in on results: Participants informally share work with group; Q&A about challenges/techniques. Participants continue working. |
 | 7:15	| Hands on with interplolation videos: Interpolation and latent walks. |
