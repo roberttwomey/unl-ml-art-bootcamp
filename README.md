@@ -32,7 +32,7 @@ No skills are necessary for the workshop, although some experience coding (EMAR1
 2. Log-in with your temporary ID and password.
    - You should see: "Welcome to the Crane OpenOnDemand Portal". 
 3. In the top window, click on __Interactive Apps->JupyterLab__. Or Select _Interactive Sessions_ [link](https://crane-ood.unl.edu/pun/sys/dashboard/batch_connect/sys/bc_hcc_jupyterlab/crane/session_contexts/new) and click JupyterLab.
-   - ![image](https://user-images.githubusercontent.com/1598545/141162805-0629f79d-7197-44a9-bfc2-4603e037f6c8.png)
+   - <img src="https://user-images.githubusercontent.com/1598545/141162805-0629f79d-7197-44a9-bfc2-4603e037f6c8.png" width=400px>
 5. Specify:
    - __Working Directory__: `$HOME`
    - __Number of cores__: `2`
