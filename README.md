@@ -45,7 +45,7 @@ No skills are necessary for the workshop, although some experience coding (EMAR1
    - __Email__: `youremail@unl.edu`
  5. Click launch! You should see "Your session is currently starting..."
  6. Once it has started, click "Connect to Jupyter"
-   - ![image](https://user-images.githubusercontent.com/1598545/141163374-835d4584-66f0-4d9f-8153-9b791d66f091.png)
+    - ![image](https://user-images.githubusercontent.com/1598545/141163374-835d4584-66f0-4d9f-8153-9b791d66f091.png)
 
 
 ## Jupyterlab Basics
