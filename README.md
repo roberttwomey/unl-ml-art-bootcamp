@@ -27,6 +27,18 @@ No skills are necessary for the workshop, although some experience coding (EMAR1
 | 7:30	| Full group Discussion, Future Directions | 
 | 8:00  | End |
 
+## JupyterLab with HCC
+1. Visit OOD
+2. Select _Interactive Sessions_
+3. Click JupyterLab
+4. Specify:
+   - __Working Directory__: `$HOME`
+   - __Number of cores__: `2`
+   - __Running time in hours__: `3`
+   - __Requested RAM in GBs__: `16`
+   - __Partition Selection__: `gpu`
+   - __Reservation__: `emar349`
+   - 
 ## Notebooks
 
 Click on the links below to open the corresponding notebooks in google colab (will be replaced with HCC). You can only run one at a time.
