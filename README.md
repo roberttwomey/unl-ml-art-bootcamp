@@ -28,11 +28,12 @@ No skills are necessary for the workshop, although some experience coding (EMAR1
 | 8:00  | End |
 
 ## Starting Jupyterlab with HCC
-1. Visit Crane OOD
+1. Visit Crane OOD [https://crane-ood.unl.edu](https://crane-ood.unl.edu)
 2. Log-in with your temporary ID and password.
    - You should see: "Welcome to the Crane OpenOnDemand Portal". 
-3. Click on __Interactive Apps->JupyterLab__ in the top menu. Or Select _Interactive Sessions_ [https://crane-ood.unl.edu/pun/sys/dashboard/batch_connect/sys/bc_hcc_jupyterlab/crane/session_contexts/new](link) and click JupyterLab.
-4. Specify:
+3. In the top window, click on __Interactive Apps->JupyterLab__. Or Select _Interactive Sessions_ [link](https://crane-ood.unl.edu/pun/sys/dashboard/batch_connect/sys/bc_hcc_jupyterlab/crane/session_contexts/new) and click JupyterLab.
+   - ![image](https://user-images.githubusercontent.com/1598545/141162805-0629f79d-7197-44a9-bfc2-4603e037f6c8.png)
+5. Specify:
    - __Working Directory__: `$HOME`
    - __Number of cores__: `2`
    - __Running time in hours__: `3`
@@ -43,14 +44,16 @@ No skills are necessary for the workshop, although some experience coding (EMAR1
    - __Job Constraints__: `gpu_v100`
    - __Email__: `youremail@unl.edu`
  5. Click launch! You should see "Your session is currently starting..."
- 6. Click "Connect to Jupyter"
+ 6. Once it has started, click "Connect to Jupyter"
+    - ![image](https://user-images.githubusercontent.com/1598545/141163374-835d4584-66f0-4d9f-8153-9b791d66f091.png)
+
 
 ## Jupyterlab Basics
 
 We will walk through together. In JupyterLab:
 1. Open a terminal
 2. Clone this repository: `git clone https://github.com/roberttwomey/unl-ml-art-bootcamp/`
-3. You should see the .ipynb files show up in the jupyterlab file browser.
+3. You should now see the .ipynb files show up in the jupyterlab file browser.
 
 ## Notebooks
 
