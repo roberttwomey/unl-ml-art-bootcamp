@@ -27,18 +27,30 @@ No skills are necessary for the workshop, although some experience coding (EMAR1
 | 7:30	| Full group Discussion, Future Directions | 
 | 8:00  | End |
 
-## JupyterLab with HCC
-1. Visit OOD
-2. Select _Interactive Sessions_
-3. Click JupyterLab
-4. Specify:
+## Starting Jupyterlab with HCC
+1. Visit Crane OOD
+2. Log-in with your temporary ID and password.
+3. Select _Interactive Sessions_ [https://crane-ood.unl.edu/pun/sys/dashboard/batch_connect/sys/bc_hcc_jupyterlab/crane/session_contexts/new](link)
+4. Click JupyterLab
+5. Specify:
    - __Working Directory__: `$HOME`
    - __Number of cores__: `2`
    - __Running time in hours__: `3`
    - __Requested RAM in GBs__: `16`
    - __Partition Selection__: `gpu`
    - __Reservation__: `emar349`
-   - 
+   - __GRES__: `gpu`
+   - __Job Constraints__: `gpu_v100`
+   - __Email__: `youremail@unl.edu`
+   - Click launch!
+
+## Jupyterlab Basics
+
+- We will walk through together.
+1. Open a terminal
+2. Clone this repository: `git clone https://github.com/roberttwomey/unl-ml-art-bootcamp/`
+3. You should see the .ipynb files show up in the jupyterlab file browser.
+
 ## Notebooks
 
 Click on the links below to open the corresponding notebooks in google colab (will be replaced with HCC). You can only run one at a time.
