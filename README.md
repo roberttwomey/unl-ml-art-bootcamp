@@ -47,7 +47,7 @@ No skills are necessary for the workshop, although some experience coding (EMAR1
 
 ## Jupyterlab Basics
 
-- We will walk through together.
+We will walk through together. In JupyterLab:
 1. Open a terminal
 2. Clone this repository: `git clone https://github.com/roberttwomey/unl-ml-art-bootcamp/`
 3. You should see the .ipynb files show up in the jupyterlab file browser.
