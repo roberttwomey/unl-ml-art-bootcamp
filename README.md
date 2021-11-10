@@ -28,7 +28,7 @@ No skills are necessary for the workshop, although some experience coding (EMAR1
 | 8:00  | End |
 
 ## Starting Jupyterlab with HCC
-1. Visit Crane OOD
+1. Visit Crane OOD [https://crane-ood.unl.edu](https://crane-ood.unl.edu)
 2. Log-in with your temporary ID and password.
    - You should see: "Welcome to the Crane OpenOnDemand Portal". 
 3. Click on __Interactive Apps->JupyterLab__ in the top menu. Or Select _Interactive Sessions_ [https://crane-ood.unl.edu/pun/sys/dashboard/batch_connect/sys/bc_hcc_jupyterlab/crane/session_contexts/new](link) and click JupyterLab.
